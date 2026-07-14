@@ -1,0 +1,43 @@
+# Core LangChain
+langchain
+langchain-core
+langchain-community
+langchain-huggingface
+
+# Hugging Face
+huggingface_hub
+transformers
+accelerate
+sentence-transformers
+torch
+
+# Search Tool
+tavily-python
+
+# Web Scraping
+beautifulsoup4
+lxml
+requests
+
+# Environment Variables
+python-dotenv
+
+# Tokenizer
+tiktoken
+
+# Utilities
+pydantic
+typing-extensions
+
+# Optional Logging
+langsmith
+
+# Async HTTP
+httpx
+
+# Progress Bars
+tqdm
+
+# Data Handling
+pandas
+numpy
